@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from flask import Flask, redirect,url_for, request, render_template
 import requests
 from imutils.video import VideoStream
