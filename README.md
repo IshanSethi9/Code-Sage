@@ -35,7 +35,7 @@
 ---
 
 ## 📁 Folder Structure
-
+```
 Code-Sage/
 ├── golden_ratio_detector/ # CV scripts for detecting golden ratio in objects
 ├── live_guitar_game/ # Guitar game based on object recognition
@@ -45,6 +45,7 @@ Code-Sage/
 ├── app.py # Flask app (if applicable)
 ├── README.md
 └── requirements.txt # Dependencies
+```
 
 
 ---
