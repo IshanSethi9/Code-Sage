@@ -73,20 +73,17 @@ python app.py
 5. Open your browser and navigate to: http://127.0.0.1:5000/
 
 🌟 Project Highlights
-Combines math + art + computer vision in a fun and educational way.
+1. Combines math + art + computer vision in a fun and educational way.
 
-Demonstrates the aesthetic and structural importance of the Golden Ratio across multiple domains.
+2. Demonstrates the aesthetic and structural importance of the Golden Ratio across multiple domains.
 
-Designed to promote interactive and visual learning.
+3. Designed to promote interactive and visual learning.
 
 🎯 Future Improvements
-Integrate with mobile cameras for object detection on the go.
-
-Add audio feedback for detection results.
-
-Deploy as a live web app using Streamlit or Heroku.
-
-Extend detection to real-world photos and design models.
+1. Integrate with mobile cameras for object detection on the go.
+2. Add audio feedback for detection results.
+3. Deploy as a live web app using Streamlit or Heroku.
+4. Extend detection to real-world photos and design models.
 
 📄 License
 This project is licensed under the MIT License.
