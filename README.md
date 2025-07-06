@@ -86,6 +86,7 @@ python app.py
 4. Extend detection to real-world photos and design models.
 
 📄 License
+
 This project is licensed under the MIT License.
 
 ## 🔗 Connect with Me
